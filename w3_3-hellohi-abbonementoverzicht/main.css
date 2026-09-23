@@ -1,0 +1,40 @@
+table{
+    background-color: #abafe3;
+    color:white;
+    width: 600px;
+    font-size: 20px;
+    line-height: 30px;
+    border-collapse: collapse;
+    border-bottom-right-radius: 50px ;
+    overflow: hidden;
+
+}
+thead {
+    background-color: #abafe3;
+        color:white;
+    
+}
+
+td, th, table {
+    padding: 20px;
+    color:white;
+
+}
+.group{
+    column-span: 1;
+    background-color: #abafe3;
+    
+}
+
+.group{
+    column-span: all;
+    background-color: #6f74d1;
+    
+}
+
+.group2{
+    column-span: 3;
+    background-color: black;
+
+    
+}
