@@ -1,23 +1,23 @@
 <div align="center">
-  <h1>👋 Merhaba, Ben Furkan Bilal Çubuk!</h1>
-  <h3>SOD1A Sınıfı Öğrencisi</h3>
+  <h1>👋 Hallo, ik ben Furkan Bilal Çubuk!</h1>
+  <h3>Student SOD1A</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=FURKAN_BILAL_CUBUK&color=blue&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Öğrenci-green?style=flat-square" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Student-green?style=flat-square" alt="Status" />
   </p>
 </div>
 
 ---
 
-### 🚀 Hakkımda
-* 🏫 **Okul / Sınıf:** SOD1A
-* 💻 Yazılım ve teknoloji dünyasına meraklı bir geliştiriciyim.
-* 🌱 Kendimi sürekli geliştirmek ve yeni projeler üretmek için çalışıyorum.
+### 🚀 Over mij
+* 🏫 **Klas:** SOD1A
+* 💻 Ik ben gepassioneerd over software en technologie.
+* 🌱 Ik ben continu bezig om mezف te ontwikkelen en nieuwe projecten te bouwen.
 
 ---
 
-### 🛠️ Teknolojiler ve Araçlar
+### 🛠️ Technologieën en Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Statistieken
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
