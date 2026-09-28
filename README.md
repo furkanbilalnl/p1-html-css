@@ -3,7 +3,7 @@
   <h3>Student SOD1A</h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=FURKAN_BILAL_CUBUK&color=blue&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=furkanbilalnl&color=blue&style=flat-square" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Student-green?style=flat-square" alt="Status" />
   </p>
 </div>
