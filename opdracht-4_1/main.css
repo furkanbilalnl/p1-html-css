@@ -1,0 +1,78 @@
+h2 {
+
+    color:#9000ff;
+    font-family: unbounded;
+    font-size: 56px;
+}
+
+.first{
+    font-weight: 400;
+}
+
+p {
+    font-weight: 200;
+    color:#0d0303;
+    font-size: 28px;
+    font-family: unbounded;  
+}
+
+ul {
+    font-weight: 200;
+    color:#0d0303;
+    font-size: 28px;
+    font-family: unbounded;  
+}
+
+button{
+    font-weight: 200;
+    color:#0d0303;
+    font-size: 28px;
+    font-family: unbounded;  
+}
+
+a {
+    color:#7272dd;  
+    font-family: unbounded;
+    text-decoration: none;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 50%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 50%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #9000ff;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  font-family: unbounded;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
