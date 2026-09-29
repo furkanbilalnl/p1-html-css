@@ -13,7 +13,7 @@
 ### 🚀 Over mij
 * 🏫 **Klas:** SOD1A
 * 💻 Ik ben gepassioneerd over software en technologie.
-* 🌱 Ik ben continu bezig om mezف te ontwikkelen en nieuwe projecten te bouwen.
+* 🌱 Ik ben nu bezig om met ontwikkelen en nieuwe projecten te bouwen.
 
 ---
 
