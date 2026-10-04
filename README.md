@@ -30,5 +30,5 @@
 
 ### 📊 GitHub Statistieken
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkanbilalnl&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
