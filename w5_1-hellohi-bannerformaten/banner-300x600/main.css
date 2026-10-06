@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+
+h1{
+    font-weight: 200px;
+}
+
+h2{
+    margin-top: -20px;
+}
+
+p{
+    margin-top: -10px;
+}
+
+.hipng{
+    height: 30px;
+    width: 30px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: -5px;
+}
+body{
+    width: 300px;
+    height: 250px;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+    color:white;
+}
+
+.simkaart{
+    transform: rotate(90deg);
+    margin-left: 40px;
+    margin-top: -25px;
+}
+
+ul{
+    margin-left: -10px;
+    margin-top: -25px;
+}
+.buton1{
+    font-size: large;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #7272dd;
+    border-color: #7272dd;
+}
+
+.circle{
+    background-color: #7272dd;
+    width: 300px;
+    height: 250px;
+    border-radius: 9999px;
+    margin-top: -100px;
+    margin-left: -20px;
+}
