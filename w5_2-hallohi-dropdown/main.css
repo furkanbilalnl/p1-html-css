@@ -1,15 +1,24 @@
+*{
+    margin-left: 0;
+}
+
 nav {
-    padding: 20px;
+    margin-top: -20px;
+    margin-bottom: -20px;
     background:linear-gradient(to right, #9000ff, blue, #9000ff);
 }
-nav a{
-    text-decoration: none;
+nav ul{
+    display: flex;
+    align-items: first baseline;
+
     list-style-type: none;
-    padding: 130px;
+    gap: 190px;
     font-weight: 900;
     font-size: 20px;
 }
-
+nav > ul > li > a{
+    text-decoration: none;
+}
 img {
     width: 5cm;
     height: 120px;
@@ -30,7 +39,7 @@ h1{
 
 .simkart{
     position: absolute;
-    top: 390px;
+    top: 360px;
     right: 330px;
     width: 50px;
     height: 80px;
@@ -42,7 +51,7 @@ h1{
     position: absolute;
     width: 300px;
     height: 380px;
-    top: 110px;
+    top: 80px;
     right: 200px;
     z-index: 0;
 }
@@ -102,7 +111,7 @@ h1{
 .woman {
     position: absolute;
     right: 30px;
-    bottom: 1.5px;
+    bottom: 54px;
     width: 300px;
     height: 400px;
 }
@@ -117,6 +126,7 @@ footer{
     color: white;
     padding: 20px;
     margin-top: 30px;
+    margin-bottom: -20px;
     text-align: center;
     background:linear-gradient(to right, #9000ff, blue, #9000ff);
 }
@@ -129,7 +139,7 @@ a{
 .deal-badge {
   position: absolute;
   left: 1080px;
-  top: 390px;
+  top: 360px;
   background-color: #000;
   color: white;
   border-radius: 50%;
@@ -140,7 +150,7 @@ a{
   align-items: center;
   font-weight: bold;
   font-size: 15px;
-  border: 8px solid #7b5ce0;
+  border: 8px solid #9000ff;
   text-align: center;
   z-index: 3;
 }
@@ -176,19 +186,43 @@ a{
     left: 48px;
 }
 
-.dropdown {
-  position: relative;
+#service{
+    position:relative;
+    color: white;
 }
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f9f9f9;
-  min-width: 130px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  padding: 12px 16px;
+#content{
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    display: none;
+
+    background-color: #7300ff;
+    padding: 20px;
+    width: 150px;
+
+    border-bottom-right-radius: 90px;
+    list-style-type: none;
+    color:white;
+    font-size: medium;
+    z-index: 99 ;
 }
 
-.dropdown:hover .dropdown-content {
-  display: block;
+#service:hover #content{
+    display: block;
+}
+
+#content a{
+    display: block;
+    padding: 8px 0;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+}
+
+#content a:hover{
+    text-decoration: none;
+    color: black;
+
 }
