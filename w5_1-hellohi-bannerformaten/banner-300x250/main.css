@@ -82,3 +82,32 @@ ul{
     margin-top: -80px;
     margin-left: 120px;
 }
+
+
+#kare1{
+    width: 15px;
+    height: 5px;
+    background-color: #920de6;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+
+#kare2{
+    width: 15px;
+    height: 5px;
+    background-color: #605b9f;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+#kare3{
+    width: 15px;
+    height: 5px;
+    background-color: #c1bff0;
+    position: absolute;
+    top: 0px;
+    left: 40px;
+}
