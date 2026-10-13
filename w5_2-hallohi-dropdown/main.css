@@ -202,6 +202,8 @@ a{
     padding: 20px;
     width: 150px;
 
+    gap: 10px;
+
     border-bottom-right-radius: 90px;
     list-style-type: none;
     color:white;
@@ -210,12 +212,14 @@ a{
 }
 
 #service:hover #content{
-    display: block;
+    display: flex;
+    flex-direction: column;
+
 }
 
 #content a{
-    display: block;
-    padding: 8px 0;
+    display: flex;
+    padding: 0 0;
     margin: 0;
     text-decoration: none;
     color: white;
