@@ -97,6 +97,9 @@ body {
     .mobile-blok {
     display: block;
   }
+  .content h2{
+    text-align: center;
+  }
     .box1 {
     background-color: #7ed6df;
   }
